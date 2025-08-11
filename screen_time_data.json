@@ -1,0 +1,50 @@
+{
+  "code.exe": {
+    "duration": 340.11273300000005,
+    "category": "Browser"
+  },
+  "msedge.exe": {
+    "duration": 75.040149,
+    "category": "File Manager"
+  },
+  "explorer.exe": {
+    "duration": 30.013041,
+    "category": "Other"
+  },
+  "applicationframehost.exe": {
+    "duration": 70.019324,
+    "category": "File Manager"
+  },
+  "excel.exe": {
+    "duration": 30.011447999999998,
+    "category": "Code Editor"
+  },
+  "snippingtool.exe": {
+    "duration": 5.002417,
+    "category": "Browser"
+  },
+  "chrome.exe": {
+    "duration": 835.3666649999998,
+    "category": "Code Editor"
+  },
+  "ms-teams.exe": {
+    "duration": 20.009455000000003,
+    "category": "Browser"
+  },
+  "python.exe": {
+    "duration": 15.00299,
+    "category": "Code Editor"
+  },
+  "git-credential-manager.exe": {
+    "duration": 95.03296200000001,
+    "category": "Code Editor"
+  },
+  "mc-web-view.exe": {
+    "duration": 5.002629,
+    "category": "Other"
+  },
+  "credentialuibroker.exe": {
+    "duration": 5.003378,
+    "category": "Browser"
+  }
+}
