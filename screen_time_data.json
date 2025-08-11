@@ -1,0 +1,38 @@
+{
+  "code.exe": {
+    "duration": 180.061091,
+    "category": "Browser"
+  },
+  "msedge.exe": {
+    "duration": 20.011938,
+    "category": "File Manager"
+  },
+  "explorer.exe": {
+    "duration": 30.013041,
+    "category": "Other"
+  },
+  "applicationframehost.exe": {
+    "duration": 30.011883,
+    "category": "File Manager"
+  },
+  "excel.exe": {
+    "duration": 30.011447999999998,
+    "category": "Code Editor"
+  },
+  "snippingtool.exe": {
+    "duration": 5.002417,
+    "category": "Browser"
+  },
+  "chrome.exe": {
+    "duration": 480.095868,
+    "category": "Code Editor"
+  },
+  "ms-teams.exe": {
+    "duration": 20.009455000000003,
+    "category": "Browser"
+  },
+  "python.exe": {
+    "duration": 15.00299,
+    "category": "Code Editor"
+  }
+}
